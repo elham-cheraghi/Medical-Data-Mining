@@ -1,0 +1,15 @@
+# build output
+out/
+*.synctex.gz
+
+# datasets stay out of this repository (NDA)
+*.csv
+*.xlsx
+*.xls
+*.sav
+*.numbers
+data/
+
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
